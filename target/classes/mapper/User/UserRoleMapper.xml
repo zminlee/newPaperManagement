@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ecust.Dao.UserRoleDao">
+    <select id="getUserInfo" resultType="com.ecust.Entity.User.UserRole">
+        SELECT User.* ,UserRole.RoleID from User,UserRole where User.UserID = UserRole.UserID and User.UserID=#{UserID} and User.UserPwd = #{UserPwd} and UserRole.RoleID = #{RoleID}
+    </select>
+
+    <select id="getAllUserInfo" resultType="com.ecust.Entity.User.UserRole">
+        SELECT User.* ,UserRole.RoleID from User,UserRole where User.UserID = UserRole.UserID
+    </select>
+
+    <insert id="AddUserRole" parameterType="java.lang.String">
+        insert INTO UserRole(UserID,RoleID) VALUES (#{UserID},#{RoleID})
+    </insert>
+</mapper>

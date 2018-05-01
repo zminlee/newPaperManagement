@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+            "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ecust.Dao.UserDao">
+
+    <insert id="RegisterUser" parameterType="java.lang.String">
+        insert INTO User(UserID,UserName,Name,UserPwd,TelPhone,CreatePersonID,CreateTime) VALUES (#{UserID},#{UserName},#{Name},#{UserPwd},#{TelPhone},#{CreatePersonID},#{CreateTime})
+    </insert>
+
+    <select id="UserNumber" parameterType="java.lang.String" resultType="java.lang.Integer">
+        SELECT count(*) FROM User where UserID = #{UserID}
+    </select>
+</mapper>

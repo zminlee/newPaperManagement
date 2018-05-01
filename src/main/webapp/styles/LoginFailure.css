@@ -1,0 +1,33 @@
+
+
+body, div {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url("../images/LoginFailure_bg.jpg") repeat-x scroll 0 0 #67ACE4;
+}
+
+h1
+{
+    color: #ffffff;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#png
+{
+    text-align: center;
+    border: medium none;
+    margin-top: 20%;
+    margin-bottom: 5%;
+}
+
+#cloud {
+    background: url("../images/LoginFailure_cloud.png") repeat-x scroll 0 0 transparent;
+    bottom: 0;
+    height: 170px;
+    position: absolute;
+    width: 100%;
+}

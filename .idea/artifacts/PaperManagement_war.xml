@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="PaperManagement:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ecust.war">
+      <element id="artifact" artifact-name="PaperManagement:war exploded" />
+    </root>
+  </artifact>
+</component>

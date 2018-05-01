@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ecust.Dao.SubCategoryDao">
+    <select id="getSubCategory" resultType="com.ecust.Entity.Category.SubCategory">
+      SELECT  * from SubCategory where CategoryID = #{CategoryID} and CreatePerson = #{CreatePerson} and StatusFlag = #{StatusFlag}
+    </select>
+
+    <insert id="AddSubCategory">
+        INSERT  into SubCategory(SubCategoryID,CategoryID,SubCategoryName,CreateTime,CreatePerson,StatusFlag) VALUES (?,?,?,?,?,?)
+    </insert>
+
+    <update id="DeleteSubCategory">
+        UPDATE  SubCategory set StatusFlag = #{StutasFlag} WHERE SubCategoryID = #{SubCategoryID} and CreatePerson = #{CreatePerson}
+    </update>
+
+    <update id="UpdateSubCategory">
+        UPDATE  SubCategory set SubCategotyName = #{SubCategoryName},CreateTime = #{CreateTime} WHERE SubCategoryID = #{SubCategoryID} and CreatePerson = #{CreatePerson}
+    </update>
+</mapper>

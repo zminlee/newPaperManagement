@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="PaperManagement" />
         <module name="PaperManagment" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="PaperManagement" target="1.5" />
       <module name="PaperManagment" target="1.5" />
     </bytecodeTargetLevel>
   </component>

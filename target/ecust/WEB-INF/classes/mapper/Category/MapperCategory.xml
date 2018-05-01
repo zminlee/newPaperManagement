@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ecust.Dao.CategoryDao">
+    <select id="getCategoryByPerson" resultType="com.ecust.Entity.Category.Category">
+        SELECT * from Category where CreatePerson = #{CreatePerson} and StatusFlag = #{StatusFlag}
+    </select>
+
+    <update id="DeleteCategory">
+        UPDATE  set StatusFlag = #{StatusFlag} where CategoryID = #{CategoryID} and CreatePerson = #{CreatePerson}
+    </update>
+
+    <insert id="AddCategory">
+        insert  into Category(CategoryID,CategoryName,CategoryNote,CreateTime,CreatePerson,StatusFlag) values (?,?,?,?,?,?)
+    </insert>
+
+    <update id="UpdateCategory">
+               UPDATE  set CategotyName = #{CategoryName},CategoryNote = #{CategoryNote},CreateTime = #{CreateTime} where CategoryID = #{CategoryID} and CreatePerson = #{CreatePerson}
+    </update>
+</mapper>
