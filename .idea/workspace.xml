@@ -381,7 +381,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/Category.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/CheckLoginForm.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/ContactUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/DeletePaper.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/HomeWebSocket.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/Paper.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/Register.js" afterDir="false" />
@@ -391,14 +390,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/WebHome.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/fontSize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/com/ecust/Controller/PaperController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/Controller/PaperController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/com/ecust/Dao/PaperDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/Dao/PaperDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/PaperServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/PaperServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/com/ecust/Service/PaperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/Service/PaperService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/Paper/PaperMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/Paper/PaperMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Delete.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/DeletePaper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/DeletePaper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/Paper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/Paper.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ecust/Controller/PaperController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecust/Controller/PaperController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ecust/Dao/PaperDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecust/Dao/PaperDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/ecust/Service/Impl/PaperServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecust/Service/Impl/PaperServiceImpl.class" afterDir="false" />
@@ -1292,8 +1283,16 @@
       <workItem from="1525087634848" duration="1081000" />
       <workItem from="1525088874900" duration="668000" />
       <workItem from="1525090418451" duration="2483000" />
-      <workItem from="1525093176124" duration="64975000" />
+      <workItem from="1525093176124" duration="65386000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1525357778037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525357778037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1329,11 +1328,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309597000" />
+    <option name="totallyTimeSpent" value="310008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
