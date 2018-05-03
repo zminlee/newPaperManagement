@@ -60,6 +60,7 @@
         </nav>
     </div>
 </div>
+
 <div class="container-fluid">
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="height: 100%;float: left">
@@ -67,7 +68,7 @@
                 <div class="row">
                     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2" style="height: 100%">
                         <div class="panel panel-default" id="Index">
-                            <div class="panel-heading" style="color: #985f0d;"><a  style="text-decoration: none">首页</a></div>
+                            <div class="panel-heading" style="color: #985f0d;"><a  style="text-decoration: none" href="${pageContext.request.contextPath}/Redirect/Home" onclick="CloseWebSocket()">首页</a></div>
                         </div>
                         <div class="panel panel-default" id="PaperAccordion">
                             <div class="panel-heading" style="color: #985f0d;" onclick="ShowAndHideOne()"><a  style="text-decoration: none">文献管理</a></div>
@@ -104,7 +105,7 @@
                         <div class="panel panel-default" style="height: 30%;width: 100%;margin-bottom: 0px">
                             <div class="panel-body">
                                 <div class="form-inline">
-                                    <label class="control-label label_h2" style="width: 30%" >请选择需要删除的文献：</label>
+                                    <label class="control-label label_h2" style="width: 30%" id="PaperName">请选择需要删除的文献：</label>
                                     <select class="form-control" style="width: 100%" id="PaperSelect">
                                         <option></option>
                                     </select>
@@ -137,6 +138,10 @@
 </div>
 <iframe id="formsubmit" name="formsubmit" style="display:none;">
 </iframe>
-</body>
+        </div>
+    </div>
+</div>
+
+
 </html>
 

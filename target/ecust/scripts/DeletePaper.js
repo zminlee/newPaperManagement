@@ -24,8 +24,8 @@ function getPaper(UserID,Select) {
             {
                 if(data[i].paperName!=PaperName)
                 {
-                    $("<option></option>").val(data[i].paperName)
-                        .text(data[i].userID)
+                    $("<option></option>").val(data[i])
+                        .text(data[i])
                         .appendTo($(Select));
                 }
             }
@@ -36,26 +36,26 @@ function getPaper(UserID,Select) {
 
 
 function  DeletePaperTip() {
-    var PaperName = $("#PaperName").val().trim();
+    var PaperName = $("#PaperSelect").val().trim();
     if (PaperName == "") {
         $("#ReAdd").html("请选择需要删除文献!");
     }
     else {
 
-        var Filename = PaperName.split("\\");
-        var NewPaperName = {"FileName": Filename[Filename.length - 1]};
-        var jsonString = JSON.stringify(NewPaperName);
+        var UserID = $("#UserIDSpan").html().trim();
+        var PaperName={"PaperName":PaperName,"UserID":UserID};
+        var jsonString = JSON.stringify(PaperName);
         $.ajax({
             url: "/PaperManagement/Paper/DeletePaper",
             type: "post",
             contentType: "application/json;charset:utf-8",
             data: jsonString,
             success: function (flag) {
-                if (flag == "true") {
-                    alert("删除成功");
-                    $("#File_Label").html("文献已删除！");
-                } else {
+                if (flag == "DeleteSuccess") {
                     alert("删除失败");
+
+                } else {
+                    alert("删除成功");
                 }
 
             }

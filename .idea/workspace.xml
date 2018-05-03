@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bedeac3-38b4-463e-b1aa-cbb684c9a345" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PaperManagement_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7bedeac3-38b4-463e-b1aa-cbb684c9a345" name="Default" comment="测试">
       <change afterPath="$PROJECT_DIR$/src/Test/UserTestCase.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/ApplicationClass/Message/SpringWebSocketHandler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/ApplicationClass/Message/SpringWebSocketHandlerInterceptor.java" afterDir="false" />
@@ -393,12 +390,29 @@
       <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/LoginFailure.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/WebHome.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/styles/fontSize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/PaperManagment_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/PaperManagment_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/PaperManagement_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaperManagment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PaperManagement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/com/ecust/Controller/PaperController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/Controller/PaperController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/com/ecust/Dao/PaperDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/Dao/PaperDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/PaperServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/PaperServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/com/ecust/Service/PaperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/com/ecust/Service/PaperService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/Paper/PaperMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/Paper/PaperMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/DeletePaper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/DeletePaper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/scripts/Paper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/scripts/Paper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ecust/Controller/PaperController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecust/Controller/PaperController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ecust/Dao/PaperDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecust/Dao/PaperDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ecust/Service/Impl/PaperServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecust/Service/Impl/PaperServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ecust/Service/PaperService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecust/Service/PaperService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/Paper/PaperMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/Paper/PaperMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ecust.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ecust.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/com/ecust/Controller/PaperController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/com/ecust/Controller/PaperController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/com/ecust/Dao/PaperDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/com/ecust/Dao/PaperDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/com/ecust/Service/Impl/PaperServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/com/ecust/Service/Impl/PaperServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/com/ecust/Service/PaperService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/com/ecust/Service/PaperService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/mapper/Paper/PaperMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ecust/WEB-INF/classes/mapper/Paper/PaperMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ecust/WEB-INF/views/Delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ecust/WEB-INF/views/Delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ecust/scripts/DeletePaper.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ecust/scripts/DeletePaper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ecust/scripts/Paper.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ecust/scripts/Paper.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -411,29 +425,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PaperController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Controller/PaperController.java">
+      <file leaf-file-name="Delete.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Delete.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1848">
-              <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
+            <state relative-caret-position="147">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeletePaper.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DeletePaper.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/DeletePaper.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="242">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Paper.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/Paper.js">
+      <file leaf-file-name="Add.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Add.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="47" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="336">
+              <caret line="72" column="30" lean-forward="true" selection-start-line="64" selection-end-line="72" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -506,17 +520,17 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Add.jsp" />
         <option value="$PROJECT_DIR$/src/main/Java/com/ecust/Controller/RegisterController.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/ecust/Dao/UserRoleDao.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Delete.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/ContactUser.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/scripts/Paper.js" />
         <option value="$PROJECT_DIR$/src/main/Java/com/ecust/Entity/Paper/Paper.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/ecust/Service/MessageService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/Paper/PaperMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/Java/com/ecust/Dao/PaperDao.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/PaperServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/Java/com/ecust/Service/PaperService.java" />
-        <option value="$PROJECT_DIR$/src/main/Java/com/ecust/Dao/PaperDao.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/scripts/DeletePaper.js" />
-        <option value="$PROJECT_DIR$/src/main/resources/mapper/Paper/PaperMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/Java/com/ecust/Controller/PaperController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/scripts/Paper.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Delete.jsp" />
       </list>
     </option>
   </component>
@@ -540,7 +554,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-6" />
     <option name="y" value="1" />
     <option name="width" value="1378" />
@@ -616,7 +630,7 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ecust" type="462c0819:PsiDirectoryNode" />
-              <item name="Service" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
@@ -626,59 +640,8 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ecust" type="462c0819:PsiDirectoryNode" />
-              <item name="Service" type="462c0819:PsiDirectoryNode" />
-              <item name="Impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="Category" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="Message" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="Paper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-              <item name="User" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="ContactUser" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
@@ -686,6 +649,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
@@ -694,31 +665,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PaperManagment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PaperManagment" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1346,7 +1292,7 @@
       <workItem from="1525087634848" duration="1081000" />
       <workItem from="1525088874900" duration="668000" />
       <workItem from="1525090418451" duration="2483000" />
-      <workItem from="1525093176124" duration="44525000" />
+      <workItem from="1525093176124" duration="64975000" />
     </task>
     <servers />
   </component>
@@ -1383,10 +1329,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289147000" />
+    <option name="totallyTimeSpent" value="309597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -1406,11 +1353,11 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31050956" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32961783" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31050956" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25036603" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25036603" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="7" side_tool="true" />
@@ -1430,6 +1377,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -1448,7 +1399,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Category.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Update.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/RegisterSuccess.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Query.jsp" />
@@ -1540,51 +1490,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/ContactUser.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="132" column="167" lean-forward="true" selection-start-line="132" selection-start-column="167" selection-end-line="132" selection-end-column="167" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/Category/MapperSubCategory.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/Category/MapperCategory.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/Message/MessageMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Controller/RedirectController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Delete.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2226">
-          <caret line="109" column="45" lean-forward="true" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/Register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="63" column="109" lean-forward="true" selection-start-line="63" selection-start-column="109" selection-end-line="63" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Entity/Paper/Paper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -1602,20 +1511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="62" column="36" lean-forward="true" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Controller/ContactUser/ContactController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/MessageServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1630,10 +1525,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Controller/RegisterController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Dao/MessageDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="72">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Entity/Paper/Paper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -1644,10 +1553,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="62" column="36" lean-forward="true" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/Register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="63" column="109" lean-forward="true" selection-start-line="63" selection-start-column="109" selection-end-line="63" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/Category/MapperSubCategory.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/Category/MapperCategory.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User/UserRoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/Paper/PaperMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/Message/MessageMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Service/PaperService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/PaperServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+          <folding>
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Dao/PaperDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/ContactUser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        <state relative-caret-position="260">
+          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#label#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#label#1;n#div#0;n#!!top" expanded="true" />
@@ -1660,80 +1649,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Add.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/ContactUser.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="44" column="28" lean-forward="true" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/Paper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Service/PaperService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User/UserRoleMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/DeletePaper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Dao/PaperDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Dao/MessageDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/Paper/PaperMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Service/Impl/PaperServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="362">
+          <caret line="133" column="31" lean-forward="true" selection-start-line="133" selection-start-column="31" selection-end-line="133" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Controller/PaperController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="105" column="61" selection-start-line="105" selection-start-column="61" selection-end-line="105" selection-end-column="61" />
+        <state relative-caret-position="586">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Java/com/ecust/Controller/ContactUser/ContactController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/Paper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="72" column="30" lean-forward="true" selection-start-line="64" selection-end-line="72" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/Delete.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/DeletePaper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
